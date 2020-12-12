@@ -15,7 +15,7 @@ const appRoutes:Routes=[
   {path:'rent-property',component:PropertyListComponent},
   {path:'add-property',component:PropertyAddComponent},
   {path:'property-details/:id',component:PropertyDetailsComponent},
-  {path:'' , redirectTo:'/home',pathMatch:'full'}
+  {path:'' ,component:PropertyListComponent}
 ]
 @NgModule({
   declarations: [

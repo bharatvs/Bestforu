@@ -1,11 +1,11 @@
 [
-    {"ID":1,"Name":"Bvs House","Type":"House","Price":"12,34,983"},
-    {"ID":2,"Name":"Villa House","Type":"Villa","Price":"18,34,983"},
-    {"ID":3,"Name":"Bramin House","Type":"Duplex","Price":"19,34,983"},
-    {"ID":4,"Name":"Bvs Villa","Type":"House","Price":"12,34,983"},
-    {"ID":5,"Name":"Shetty Home","Type":"House","Price":"12,34,983"},
-    {"ID":6,"Name":"Bvs House","Type":"House","Price":"12,34,983"},
-    {"ID":7,"Name":"Bvs House","Type":"House","Price":"12,34,983"},
-    {"ID":8,"Name":"Bvs House","Type":"House","Price":"12,34,983"}
+    {"ID":1,"Name":"Bvs House","Type":"House","Price":"12,34,983","SaleRent":1,"Img":"house_1"},
+    {"ID":2,"Name":"Villa House","Type":"Villa","Price":"18,34,983","SaleRent":2,"Img":"house_2"},
+    {"ID":3,"Name":"Bramin House","Type":"Duplex","Price":"19,34,983","SaleRent":1,"Img":"house_3"},
+    {"ID":4,"Name":"Bvs Villa","Type":"House","Price":"12,34,983","SaleRent":1,"Img":"house_4"},
+    {"ID":5,"Name":"Shetty Home","Type":"House","Price":"12,34,983","SaleRent":1,"Img":"house_5"},
+    {"ID":6,"Name":"Bvs House","Type":"House","Price":"12,34,983","SaleRent":2,"Img":"house_6"},
+    {"ID":7,"Name":"Bvs House","Type":"House","Price":"12,34,983","SaleRent":1,"Img":"house_7"},
+    {"ID":8,"Name":"Bvs House","Type":"House","Price":"12,34,983","SaleRent":2}
     
   ]
