@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-property-card',
@@ -9,9 +10,9 @@ export class PropertyCardComponent implements OnInit {
 
   @Input()
   propertycard:any;
-  constructor() { }
-
+  constructor(private activeroute:ActivatedRoute) { }
   ngOnInit(): void {
+    
   }
-
+  
 }

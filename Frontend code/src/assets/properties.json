@@ -1,0 +1,11 @@
+[
+    {"ID":1,"Name":"Bvs House","Type":"House","Price":"12,34,983"},
+    {"ID":2,"Name":"Villa House","Type":"Villa","Price":"18,34,983"},
+    {"ID":3,"Name":"Bramin House","Type":"Duplex","Price":"19,34,983"},
+    {"ID":4,"Name":"Bvs Villa","Type":"House","Price":"12,34,983"},
+    {"ID":5,"Name":"Shetty Home","Type":"House","Price":"12,34,983"},
+    {"ID":6,"Name":"Bvs House","Type":"House","Price":"12,34,983"},
+    {"ID":7,"Name":"Bvs House","Type":"House","Price":"12,34,983"},
+    {"ID":8,"Name":"Bvs House","Type":"House","Price":"12,34,983"}
+    
+  ]
